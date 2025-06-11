@@ -1,6 +1,6 @@
 # 📝 Personal Blog
 
-Welcome to **My Personal Blog** — a simple vanilla JavaScript web app where you can write, publish, and manage articles. It features both a public-facing section and an admin interface for content management.
+Welcome to **My Personal Blog** project powered by https://roadmap.sh/projects/personal-blog — a simple vanilla JavaScript web app where you can write, publish, and manage articles. It features both a public-facing section and an admin interface for content management.
 
 ---
 
@@ -8,30 +8,8 @@ Welcome to **My Personal Blog** — a simple vanilla JavaScript web app where yo
 
 - 🌐 **HTML5**
 - 🎨 **CSS3**
-- 🧠 **Vanilla JavaScript (ES6)**
+- 🧠 **Vanilla JavaScript**
 - 📦 **npm + live-server** (for local development)
-
----
-
-## 🗂️ Project Structure
-
-my-personal-blog/
-├── index.html            # Home Page
-├── article.html          # Article Page
-├── dashboard.html        # Admin Dashboard
-├── add.html              # Add Article
-├── edit.html             # Edit Article
-├── css/
-│   └── style.css
-├── js/
-│   ├── main.js
-│   ├── dashboard.js
-│   ├── add.js
-│   └── edit.js
-├── data/
-│   └── articles.json     # Articles stored as JSON
-├── README.md
-└── package.json
 
 ---
 
