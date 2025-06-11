@@ -7,7 +7,7 @@ Welcome to **My Personal Blog** project powered by https://roadmap.sh/projects/p
 ## ⚙️ Technologies Used
 
 - 🌐 **HTML5**
-- 🎨 **CSS3**
+- 🎨 **CSS**
 - 🧠 **Vanilla JavaScript**
 - 📦 **npm + live-server** (for local development)
 
